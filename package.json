@@ -1,9 +1,9 @@
 {
-  "name": "todo-manager",
+  "name": "react-todo-practice",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://tainiikrab.github.io/todo-manager",
+  "homepage": "https://tainiikrab.github.io/react-todo-practice/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
